@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Typora + PicGo + Gitee 实现免费的图床</title>
+      <link href="posts/ae713651/"/>
+      <url>posts/ae713651/</url>
+      
+        <content type="html"><![CDATA[<p>Typora + PicGo + Gitee 实现免费的图床，让typora更加的顺滑！</p><p>在最开始使用Typora写博客的时候，是知道有这个功能的。网上看了一圈之后感觉有点麻烦就放弃了，直到前几天写了一篇包含大量的图文的博文时。在本地看还好，上传到网上就杯具了。于是又想起了之前的事，琢磨下感觉异常的简单…..</p><a id="more"></a><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><h5 id="1、安装Node-js"><a href="#1、安装Node-js" class="headerlink" title="1、安装Node.js"></a>1、安装Node.js</h5><p>官网：<a href="https://nodejs.org/zh-cn/">https://nodejs.org/zh-cn/</a></p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130152233.png" alt="image-20201130152232959"></p><h5 id="2、安装PicGo"><a href="#2、安装PicGo" class="headerlink" title="2、安装PicGo"></a>2、安装PicGo</h5><p>官网：<a href="https://github.com/Molunerfinn/picgo/releases">https://github.com/Molunerfinn/picgo/releases</a></p><p>最新版目前是2.3.0，我们选择稳定的2.2.2版就行了</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130153701.png" alt="image-20201130153701274"></p><h5 id="3、在gitee上新建一个仓库当作图床"><a href="#3、在gitee上新建一个仓库当作图床" class="headerlink" title="3、在gitee上新建一个仓库当作图床"></a>3、在gitee上新建一个仓库当作图床</h5><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130155112.png" alt="image-20201130155112427"></p><h5 id="4、生成Token"><a href="#4、生成Token" class="headerlink" title="4、生成Token"></a>4、生成Token</h5><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130155720.png" alt="image-20201130155720276"></p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130160337.png" alt="image-20201130160337336"></p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130160518.png" alt="image-20201130160518376"></p><h5 id="5、配置PicGo"><a href="#5、配置PicGo" class="headerlink" title="5、配置PicGo"></a>5、配置PicGo</h5><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130160731.png" alt="image-20201130160731553"></p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130161703.png" alt="image-20201130161703751"></p><h5 id="6、Typora配置"><a href="#6、Typora配置" class="headerlink" title="6、Typora配置"></a>6、Typora配置</h5><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130162306.png" alt="image-20201130162306273"></p><h5 id="7、测试"><a href="#7、测试" class="headerlink" title="7、测试"></a>7、测试</h5><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/20201130162639.png" alt="image-20201130162639436"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> PicGo </tag>
+            
+            <tag> 图床 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Lombok使用</title>
+      <link href="posts/1a78bb16/"/>
+      <url>posts/1a78bb16/</url>
+      
+        <content type="html"><![CDATA[<p>Lombok是一个java库，它可以自动插入编辑器并构建工具，为java增色。</p><p>永远不要再编写另一个getter或equals方法，使用一个注释，您的类就有了一个功能齐全的构建器，自动化您的日志变量，等等。</p><a id="more"></a><ul><li><p>基本使用</p><p>1、首先我们需要导入jar包</p><p><a href="https://repo1.maven.org/maven2/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar">点击下载 jar包-1.18.10</a></p><pre><code>如果使用Maven构建项目的话，直接导入就OK了</code></pre><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&lt;!-- lombok --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.projectlombok<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>lombok<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>1.18.10<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">scope</span>&gt;</span>provided<span class="tag">&lt;/<span class="name">scope</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure><p>2、我们需要去idea的插件市场下载lombok，安装完成重启idea即可</p><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/11/28/gxUctLXqBoJYdja.png" alt="Lombok.png"></p></li></ul><ul><li><p>常用的注解应用及功能</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//作用类上，生成所有成员变量的getter/setter方法;</span></span><br><span class="line"><span class="comment">//作用于成员变量上，生成该成员变量的getter/setter方法。</span></span><br><span class="line"><span class="meta">@Getter</span> and <span class="meta">@Setter</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">//主要作用于成员变量和参数中，标识不能为空，否则抛出空指针异常。    </span></span><br><span class="line"><span class="meta">@NonNull</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">//作用于类，覆盖默认的toString()方法</span></span><br><span class="line"><span class="meta">@ToString</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">//作用于类，覆盖默认的equals和hashCode</span></span><br><span class="line"><span class="meta">@EqualsAndHashCode</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">//@AllArgsConstructor:生成全参构造器</span></span><br><span class="line"><span class="comment">//@NoArgsConstructor:生成无参构造器</span></span><br><span class="line"><span class="comment">//@RequiredArgsConstructor:生成包含final和@NonNull注解的成员变量的构造器</span></span><br><span class="line"><span class="meta">@AllArgsConstructor</span>, <span class="meta">@RequiredArgsConstructor</span> and <span class="meta">@NoArgsConstructor</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">//作用于类上，生成日志变量。针对不同的日志实现产品，有不同的注解</span></span><br><span class="line"><span class="meta">@Log</span>, <span class="meta">@Log4j</span>, <span class="meta">@Log4j2</span>, <span class="meta">@Slf4j</span>, <span class="meta">@XSlf4j</span>, <span class="meta">@CommonsLog</span>, <span class="meta">@JBossLog</span>, <span class="meta">@Flogger</span>, <span class="meta">@CustomLog</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">//作用于类上，是以下注解的集合：@ToString @EqualsAndHashCode @Getter</span></span><br><span class="line"><span class="meta">@Data</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">//作用于类上，将类转变为建造者模式</span></span><br><span class="line"><span class="meta">@Builder</span></span><br><span class="line">       </span><br><span class="line"><span class="comment">//可以对受检异常进行捕捉并抛出</span></span><br><span class="line"><span class="meta">@SneakyThrows</span></span><br></pre></td></tr></table></figure></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 插件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Lombok </tag>
+            
+            <tag> Java </tag>
+            
+            <tag> Idea </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
