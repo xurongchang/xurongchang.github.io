@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lan&#39;s Blog</title>
+  <icon>https://xurongchang.github.io/icon.png</icon>
+  
+  <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xurongchang.github.io/"/>
+  <updated>2020-12-08T02:31:59.455Z</updated>
+  <id>https://xurongchang.github.io/</id>
+  
+  <author>
+    <name>云雀</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Typora + PicGo + Gitee 实现免费的图床</title>
+    <link href="https://xurongchang.github.io/posts/ae713651/"/>
+    <id>https://xurongchang.github.io/posts/ae713651/</id>
+    <published>2020-11-30T08:32:20.000Z</published>
+    <updated>2020-12-08T02:31:59.455Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Typora + PicGo + Gitee 实现免费的图床，让typora更加的顺滑！&lt;/p&gt;
+&lt;p&gt;在最开始使用Typora写博客的时候，是知道有这个功能的。网上看了一圈之后感觉有点麻烦就放弃了，直到前几天写了一篇包含大量的图文的博文时。在本地看还好，上传到网上就杯具了。于是又想起了之前的事，琢磨下感觉异常的简单…..&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教程" scheme="https://xurongchang.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Typora" scheme="https://xurongchang.github.io/tags/Typora/"/>
+    
+    <category term="PicGo" scheme="https://xurongchang.github.io/tags/PicGo/"/>
+    
+    <category term="图床" scheme="https://xurongchang.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lombok使用</title>
+    <link href="https://xurongchang.github.io/posts/1a78bb16/"/>
+    <id>https://xurongchang.github.io/posts/1a78bb16/</id>
+    <published>2020-11-28T16:07:44.000Z</published>
+    <updated>2020-12-08T02:31:59.453Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Lombok是一个java库，它可以自动插入编辑器并构建工具，为java增色。&lt;/p&gt;
+&lt;p&gt;永远不要再编写另一个getter或equals方法，使用一个注释，您的类就有了一个功能齐全的构建器，自动化您的日志变量，等等。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="插件" scheme="https://xurongchang.github.io/categories/%E6%8F%92%E4%BB%B6/"/>
+    
+    
+    <category term="Lombok" scheme="https://xurongchang.github.io/tags/Lombok/"/>
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="Idea" scheme="https://xurongchang.github.io/tags/Idea/"/>
+    
+  </entry>
+  
+</feed>
