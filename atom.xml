@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lan&#39;s Blog</title>
+  <title>乘风御剑</title>
   <icon>https://xurongchang.github.io/icon.png</icon>
   
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-11T11:16:32.386Z</updated>
+  <updated>2020-12-12T12:03:15.107Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -17,11 +17,66 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Java反射机制笔记</title>
+    <link href="https://xurongchang.github.io/posts/83a8cfac/"/>
+    <id>https://xurongchang.github.io/posts/83a8cfac/</id>
+    <published>2020-12-12T08:41:58.000Z</published>
+    <updated>2020-12-12T12:03:15.107Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;font color=blue&gt;这篇笔记是根据秦疆老师的视频整理而成，记录一下&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=blue&gt;大佬的地址：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="反射机制" scheme="https://xurongchang.github.io/tags/%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java自定义注解</title>
+    <link href="https://xurongchang.github.io/posts/ba74bcdf/"/>
+    <id>https://xurongchang.github.io/posts/ba74bcdf/</id>
+    <published>2020-12-12T08:21:28.000Z</published>
+    <updated>2020-12-12T08:36:06.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;注解&quot;&gt;&lt;a href=&quot;#注解&quot; class=&quot;headerlink&quot; title=&quot;注解&quot;&gt;&lt;/a&gt;注解&lt;/h1&gt;&lt;h2 id=&quot;Java常用的三个内置注解：&quot;&gt;&lt;a href=&quot;#Java常用的三个内置注解：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="注解" scheme="https://xurongchang.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CSS笔记</title>
     <link href="https://xurongchang.github.io/posts/1822a0ce/"/>
     <id>https://xurongchang.github.io/posts/1822a0ce/</id>
     <published>2020-12-11T11:11:56.000Z</published>
-    <updated>2020-12-11T11:16:32.386Z</updated>
+    <updated>2020-12-11T11:17:26.173Z</updated>
     
     
       
@@ -162,9 +217,9 @@
     <category term="插件" scheme="https://xurongchang.github.io/categories/%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="Lombok" scheme="https://xurongchang.github.io/tags/Lombok/"/>
-    
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="Lombok" scheme="https://xurongchang.github.io/tags/Lombok/"/>
     
     <category term="Idea" scheme="https://xurongchang.github.io/tags/Idea/"/>
     
