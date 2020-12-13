@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-12T12:03:15.107Z</updated>
+  <updated>2020-12-13T07:38:22.077Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vercel加速GitPages访问速度</title>
+    <link href="https://xurongchang.github.io/posts/fe8751f5/"/>
+    <id>https://xurongchang.github.io/posts/fe8751f5/</id>
+    <published>2020-12-13T06:55:35.000Z</published>
+    <updated>2020-12-13T07:38:22.077Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言&lt;/p&gt;
+&lt;p&gt;由于GitHub访问速度感人，相比之下Vercel速度则会快上不少。当然也有很多方法还降低这种情况，比如部署到国内的Gitee上，Gitee需要手动更新。像我这样的懒癌患者就果断放弃了，也可以使用CDN来降低延迟，不过相比之下V</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://xurongchang.github.io/categories/hexo/"/>
+    
+    
+    <category term="Vercel" scheme="https://xurongchang.github.io/tags/Vercel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Hexo+GitHub搭建博客</title>
+    <link href="https://xurongchang.github.io/posts/90d1f040/"/>
+    <id>https://xurongchang.github.io/posts/90d1f040/</id>
+    <published>2020-12-13T03:00:39.000Z</published>
+    <updated>2020-12-13T06:13:53.042Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;引言&lt;/p&gt;
+&lt;p&gt;由于前阵子阿里云到期了没办法只能转战Hexo+GitHub的静态博客🤣。网上已经有很多相关的教程了，为什么我还要写呢？主要是想记录下属于我自己的足迹吧！最重要的是搭建自己的博客可以在庞大的互联网中有一个清净的地方，记录下自己的</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://xurongchang.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://xurongchang.github.io/tags/hexo/"/>
+    
+    <category term="个人博客" scheme="https://xurongchang.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>Java反射机制笔记</title>
