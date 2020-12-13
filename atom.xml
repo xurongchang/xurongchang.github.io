@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-13T07:38:22.077Z</updated>
+  <updated>2020-12-13T16:27:06.446Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spring_IOC笔记</title>
+    <link href="https://xurongchang.github.io/posts/5e4d2d0d/"/>
+    <id>https://xurongchang.github.io/posts/5e4d2d0d/</id>
+    <published>2020-12-13T16:11:05.000Z</published>
+    <updated>2020-12-13T16:27:06.446Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Spring-IOC&quot;&gt;&lt;a href=&quot;#Spring-IOC&quot; class=&quot;headerlink&quot; title=&quot;Spring-IOC&quot;&gt;&lt;/a&gt;Spring-IOC&lt;/h1&gt;&lt;h2 id=&quot;什么是IOC？&quot;&gt;&lt;a href=&quot;#什么是IOC？&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="spring" scheme="https://xurongchang.github.io/tags/spring/"/>
+    
+  </entry>
   
   <entry>
     <title>Vercel加速GitPages访问速度</title>
