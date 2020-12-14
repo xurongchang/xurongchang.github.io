@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-13T16:27:06.446Z</updated>
+  <updated>2020-12-14T07:17:17.944Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -17,11 +17,73 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Spring_Transactional</title>
+    <link href="https://xurongchang.github.io/posts/4f78041f/"/>
+    <id>https://xurongchang.github.io/posts/4f78041f/</id>
+    <published>2020-12-14T07:11:08.000Z</published>
+    <updated>2020-12-14T07:17:17.944Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Spring-Transactional&quot;&gt;&lt;a href=&quot;#Spring-Transactional&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="spring" scheme="https://xurongchang.github.io/tags/spring/"/>
+    
+    <category term="事务" scheme="https://xurongchang.github.io/tags/%E4%BA%8B%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring_AOP笔记</title>
+    <link href="https://xurongchang.github.io/posts/b3a30946/"/>
+    <id>https://xurongchang.github.io/posts/b3a30946/</id>
+    <published>2020-12-14T05:25:18.000Z</published>
+    <updated>2020-12-14T07:14:34.411Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Spring-AOP&quot;&gt;&lt;a href=&quot;#Spring-AOP&quot; class=&quot;headerlink&quot; title=&quot;Spring-AOP&quot;&gt;&lt;/a&gt;Spring-AOP&lt;/h1&gt;&lt;h1 id=&quot;AOP-基本概念&quot;&gt;&lt;a href=&quot;#AOP-基本概念&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="spring" scheme="https://xurongchang.github.io/tags/spring/"/>
+    
+    <category term="aop" scheme="https://xurongchang.github.io/tags/aop/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Spring_IOC笔记</title>
     <link href="https://xurongchang.github.io/posts/5e4d2d0d/"/>
     <id>https://xurongchang.github.io/posts/5e4d2d0d/</id>
     <published>2020-12-13T16:11:05.000Z</published>
-    <updated>2020-12-13T16:27:06.446Z</updated>
+    <updated>2020-12-14T07:14:14.891Z</updated>
     
     
       
@@ -42,6 +104,8 @@
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
     
     <category term="spring" scheme="https://xurongchang.github.io/tags/spring/"/>
+    
+    <category term="ioc" scheme="https://xurongchang.github.io/tags/ioc/"/>
     
   </entry>
   
