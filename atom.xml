@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-14T07:17:53.070Z</updated>
+  <updated>2020-12-16T06:41:39.683Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -15,6 +15,123 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> Spring整合Mybatis出现Access denied for user &#39;Think&#39;@&#39;localhost&#39; (using password: YES)</title>
+    <link href="https://xurongchang.github.io/posts/8be34fcd/"/>
+    <id>https://xurongchang.github.io/posts/8be34fcd/</id>
+    <published>2020-12-16T06:37:07.000Z</published>
+    <updated>2020-12-16T06:41:39.683Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt; 在整合mybatis时出现Access denied for user ‘Think’@’localhost’ (using password: YES)&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="问题" scheme="https://xurongchang.github.io/categories/%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="框架" scheme="https://xurongchang.github.io/categories/%E9%97%AE%E9%A2%98/%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="发现解决问题" scheme="https://xurongchang.github.io/tags/%E5%8F%91%E7%8E%B0%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring &amp; Mybatis 整合</title>
+    <link href="https://xurongchang.github.io/posts/e147a258/"/>
+    <id>https://xurongchang.github.io/posts/e147a258/</id>
+    <published>2020-12-16T06:26:21.000Z</published>
+    <updated>2020-12-16T06:42:25.513Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;目录结构：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    
+    
+    <category term="spring" scheme="https://xurongchang.github.io/tags/spring/"/>
+    
+    <category term="整合" scheme="https://xurongchang.github.io/tags/%E6%95%B4%E5%90%88/"/>
+    
+    <category term="Mybatis" scheme="https://xurongchang.github.io/tags/Mybatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何将Hexo博客迁移到新设备</title>
+    <link href="https://xurongchang.github.io/posts/767a5efb/"/>
+    <id>https://xurongchang.github.io/posts/767a5efb/</id>
+    <published>2020-12-16T03:42:57.000Z</published>
+    <updated>2020-12-16T06:20:54.369Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言&lt;/p&gt;
+&lt;p&gt;由于重装了系统，博客环境也要跟着迁移。看了网上了一系列的教程，说要把必要的上传到GitHub的新分支上保存。感觉非常麻烦，思考下之后就用自己的方法了，结果没问题。说实话有点懵逼，太简单了。不知道是因为是大佬git玩得溜还是存在什</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://xurongchang.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://xurongchang.github.io/tags/hexo/"/>
+    
+    <category term="博迁移客" scheme="https://xurongchang.github.io/tags/%E5%8D%9A%E8%BF%81%E7%A7%BB%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDK环境变量配置</title>
+    <link href="https://xurongchang.github.io/posts/3f60947a/"/>
+    <id>https://xurongchang.github.io/posts/3f60947a/</id>
+    <published>2020-12-15T23:58:12.000Z</published>
+    <updated>2020-12-16T00:55:02.201Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言&lt;/p&gt;
+&lt;p&gt;由于系统重装了，一切都要开头再来！虽然繁琐，但那总清理干净的感觉真的很舒服。到装JDK的时候，忘记环境变量怎么配了(🤣🤣🤣)。闲着也是没事记录一下吧，说不定以后有机会用到呢，也可以帮助到需要的人&lt;/p&gt;
+&lt;/blockqu</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="环境变量" scheme="https://xurongchang.github.io/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>Spring_Transactional</title>
