@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-16T06:43:10.329Z</updated>
+  <updated>2020-12-18T17:59:13.243Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -15,6 +15,86 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何正确的使用搜索引擎</title>
+    <link href="https://xurongchang.github.io/posts/a78e1131/"/>
+    <id>https://xurongchang.github.io/posts/a78e1131/</id>
+    <published>2020-12-18T17:03:30.000Z</published>
+    <updated>2020-12-18T17:59:13.243Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;去年的时候通过一篇科普知晓了搜索引擎原来可以这么玩，今天再次被如何正确的使用搜索引擎刷屏。很感谢那篇科普是我面向搜索引擎编程愈发的熟练了😆😆😆。闲着无聊，就写写我日常使用搜索引擎的小技巧吧。本篇介绍简单的技巧，复杂的感觉用不上几次。为了不浪费</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="搜索引擎" scheme="https://xurongchang.github.io/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript基本语法</title>
+    <link href="https://xurongchang.github.io/posts/bbf13a25/"/>
+    <id>https://xurongchang.github.io/posts/bbf13a25/</id>
+    <published>2020-12-18T16:55:30.000Z</published>
+    <updated>2020-12-18T16:58:59.877Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;一、JavaScript基本语法&quot;&gt;&lt;a href=&quot;#一、JavaScript基本语法&quot; class=&quot;headerlink&quot; title=&quot;一、JavaScript基本语法&quot;&gt;&lt;/a&gt;一、JavaScript基本语法&lt;/h4&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://xurongchang.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="JavaScript" scheme="https://xurongchang.github.io/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+    
+    <category term="JavaScript" scheme="https://xurongchang.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于文章配图二三事</title>
+    <link href="https://xurongchang.github.io/posts/e56aaba5/"/>
+    <id>https://xurongchang.github.io/posts/e56aaba5/</id>
+    <published>2020-12-18T16:17:59.000Z</published>
+    <updated>2020-12-18T16:52:10.598Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言&lt;/p&gt;
+&lt;p&gt;博客从halo转到hexo有一段时间了，开启了文章封面的图片后。每次写博客的时候总是找个封面图花少老半天的时间😒😒😒，因为我比较在意这个事情🤣🤣🤣。想了以下可以用JS实现，但是我比较懒。所以想到了随机图片的api，有</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="随机图片" scheme="https://xurongchang.github.io/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
   
   <entry>
     <title> Spring整合Mybatis出现Access denied for user &#39;Think&#39;@&#39;localhost&#39; (using password: YES)</title>
@@ -110,7 +190,7 @@
     <link href="https://xurongchang.github.io/posts/3f60947a/"/>
     <id>https://xurongchang.github.io/posts/3f60947a/</id>
     <published>2020-12-15T23:58:12.000Z</published>
-    <updated>2020-12-16T00:55:02.201Z</updated>
+    <updated>2020-12-16T12:53:40.329Z</updated>
     
     
       
@@ -119,7 +199,7 @@
         
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;前言&lt;/p&gt;
-&lt;p&gt;由于系统重装了，一切都要开头再来！虽然繁琐，但那总清理干净的感觉真的很舒服。到装JDK的时候，忘记环境变量怎么配了(🤣🤣🤣)。闲着也是没事记录一下吧，说不定以后有机会用到呢，也可以帮助到需要的人&lt;/p&gt;
+&lt;p&gt;由于系统重装了，一切都要开头再来！虽然繁琐，但那种清理干净的感觉真的很舒服。到装JDK的时候，忘记环境变量怎么配了(🤣🤣🤣)。闲着也是没事记录一下吧，说不定以后有机会用到呢，也可以帮助到需要的人&lt;/p&gt;
 &lt;/blockqu</summary>
         
       
