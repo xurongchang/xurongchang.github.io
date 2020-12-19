@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>如何使百度和谷歌的搜索引擎收录你的网站</title>
+      <link href="posts/cbff76b9/"/>
+      <url>posts/cbff76b9/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>相信很多小伙伴搭建了个人的网站，是不是发现使用百度和谷无论如何也搜索不到自己的网站呢？那是因为你的网站还没有没搜索引擎收录导致的，本篇就来介绍怎么使百度和谷歌的搜索引擎收录你的网站。话不多说，让我开始吧！</p></blockquote><p><strong>注意：</strong>本篇只是介绍如何使搜索引擎收录你的网站，具体的SEO优化工作请参考其它资料！</p><blockquote><ul><li>百度收录：<a href="https://ziyuan.baidu.com/">https://ziyuan.baidu.com/</a></li><li>谷歌收录：<a href="https://search.google.com/">https://search.google.com/</a></li></ul></blockquote><h1 id="百度"><a href="#百度" class="headerlink" title="百度"></a>百度</h1><p>我们打开百度搜索资源平台，找到站点管理</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219140118312.png" alt="image-20201219140118312"></p><p>我们点击添加网站（第一次添加可能会和我的界面不太一样）</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219140534493.png" alt="image-20201219140534493"></p><p>跟着三步走(不要更改验证文件的名字)</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219141104307.png" alt="image-20201219141104307"></p><p>完成上述验证后，点击普通收录，点击sitemap方式提交</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219141402249.png" alt="image-20201219141402249"></p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219141432986.png" alt="image-20201219141432986"></p><blockquote><p>这里我们需要准备网站地图了，关于sitemap的制作，有很多方式。比如我使用hexo搭建的博客就可以使用hexo-generator-baidu-sitemap插件。</p><p>也可以使用在线的网站来制作，有：<a href="https://www.xml-sitemaps.com/%E3%80%82%E4%B8%8B%E8%BD%BD%E5%88%B6%E4%BD%9C%E5%A5%BD%E7%9A%84sitemap.xml%E6%96%87%E4%BB%B6%E5%B0%86%E5%AE%83%E6%94%BE%E5%88%B0%E7%BD%91%E7%AB%99%E6%A0%B9%E7%9B%AE%E5%BD%95">https://www.xml-sitemaps.com/。下载制作好的sitemap.xml文件将它放到网站根目录</a></p></blockquote><p>提交sitemap.xml完成收录</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219142333254.png" alt="image-20201219142333254"></p><h1 id="Google"><a href="#Google" class="headerlink" title="Google"></a>Google</h1><p>打开链接，会看到下图，跟着指示操作即可</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219142620355.png" alt="image-20201219142620355"></p><p>提交sitemap.xml</p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/quehua/blogimg/raw/master/img/image-20201219143347956.png" alt="image-20201219143347956" style="zoom: 67%;" /><blockquote><p>以上就是如何使搜索引擎收录你的网站了，Google的收录会很快，少则几小时，多则两三天。相比之下百度因为某些原因会非常缓慢，耐心等待把！</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> baidu </tag>
+            
+            <tag> google </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何正确的使用搜索引擎</title>
       <link href="posts/a78e1131/"/>
       <url>posts/a78e1131/</url>
@@ -60,7 +87,7 @@
       <link href="posts/e56aaba5/"/>
       <url>posts/e56aaba5/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>前言</p><p>博客从halo转到hexo有一段时间了，开启了文章封面的图片后。每次写博客的时候总是找个封面图花少老半天的时间😒😒😒，因为我比较在意这个事情🤣🤣🤣。想了以下可以用JS实现，但是我比较懒。所以想到了随机图片的api，有问题上知乎果然有随机图片的api，所以整理一下我比较喜欢的api</p></blockquote><blockquote><p>链接收集自知乎问答</p><p>由于链接很多并没有查证来源，如果你是该链接的作者：“谢谢您的开发与开放使用”。</p><p>地址：<a href="https://www.zhihu.com/question/21168322">https://www.zhihu.com/question/21168322</a></p></blockquote><h1 id="以下为链接和链接所展示的图片"><a href="#以下为链接和链接所展示的图片" class="headerlink" title="以下为链接和链接所展示的图片"></a>以下为链接和链接所展示的图片</h1><p>1、<a href="https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqq3cz03j21kw0w0gwr.jpg">https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqq3cz03j21kw0w0gwr.jpg</a></p><img src= "/img/loading.gif" data-lazy-src="https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqq3cz03j21kw0w0gwr.jpg" style="zoom:25%;" /><p>2、<a href="https://api.dujin.org/bing/1920.php">https://api.dujin.org/bing/1920.php</a></p><img src= "/img/loading.gif" data-lazy-src="https://api.dujin.org/bing/1920.php" style="zoom:25%;" /><p>3、<a href="https://api.ixiaowai.cn/gqapi/gqapi.php">https://api.ixiaowai.cn/gqapi/gqapi.php</a></p><img src= "/img/loading.gif" data-lazy-src="https://api.ixiaowai.cn/gqapi/gqapi.php" style="zoom:25%;" /><p>4、<a href="https://acg.yanwz.cn/scenery/api.php">https://acg.yanwz.cn/scenery/api.php</a></p><img src= "/img/loading.gif" data-lazy-src="https://acg.yanwz.cn/scenery/api.php" style="zoom:25%;" /><p>5、<a href="https://unsplash.it/1600/900?random">https://unsplash.it/1600/900?random</a></p><img src= "/img/loading.gif" data-lazy-src="https://unsplash.it/1600/900?random" style="zoom:25%;" /><blockquote><p>以上是我比较常用的，谢谢观看！</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>前言</p><p>博客从halo转到hexo有一段时间了，开启了文章封面的图片后。每次写博客的时候总是找个封面图花少老半天的时间😒😒😒，因为我比较在意这个事情🤣🤣🤣。想了以下可以用JS实现，但是我比较懒。所以想到了随机图片的api，有问题上知乎果然有随机图片的api，所以整理一下我比较喜欢的api</p></blockquote><blockquote><p>链接收集自知乎问答</p><p>由于链接很多并没有查证来源，如果你是该链接的作者：“谢谢您的开发与开放使用”。</p><p>地址：<a href="https://www.zhihu.com/question/21168322">https://www.zhihu.com/question/21168322</a></p></blockquote><h1 id="以下为链接和链接所展示的图片"><a href="#以下为链接和链接所展示的图片" class="headerlink" title="以下为链接和链接所展示的图片"></a>以下为链接和链接所展示的图片</h1><p>1、<a href="https://api.ixiaowai.cn/mcapi/mcapi.php">https://api.ixiaowai.cn/mcapi/mcapi.php</a></p><img src= "/img/loading.gif" data-lazy-src="https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqq3cz03j21kw0w0gwr.jpg" style="zoom:25%;" /><p>2、<a href="https://api.dujin.org/bing/1920.php">https://api.dujin.org/bing/1920.php</a></p><img src= "/img/loading.gif" data-lazy-src="https://api.dujin.org/bing/1920.php" style="zoom:25%;" /><p>3、<a href="https://api.ixiaowai.cn/gqapi/gqapi.php">https://api.ixiaowai.cn/gqapi/gqapi.php</a></p><img src= "/img/loading.gif" data-lazy-src="https://api.ixiaowai.cn/gqapi/gqapi.php" style="zoom:25%;" /><p>4、<a href="https://acg.yanwz.cn/scenery/api.php">https://acg.yanwz.cn/scenery/api.php</a></p><img src= "/img/loading.gif" data-lazy-src="https://acg.yanwz.cn/scenery/api.php" style="zoom:25%;" /><p>5、<a href="https://unsplash.it/1600/900?random">https://unsplash.it/1600/900?random</a></p><img src= "/img/loading.gif" data-lazy-src="https://unsplash.it/1600/900?random" style="zoom:25%;" /><blockquote><p>以上是我比较常用的，谢谢观看！</p></blockquote>]]></content>
       
       
       <categories>

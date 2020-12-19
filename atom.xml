@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-18T17:59:13.243Z</updated>
+  <updated>2020-12-19T07:04:12.475Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -17,11 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何使百度和谷歌的搜索引擎收录你的网站</title>
+    <link href="https://xurongchang.github.io/posts/cbff76b9/"/>
+    <id>https://xurongchang.github.io/posts/cbff76b9/</id>
+    <published>2020-12-19T05:43:10.000Z</published>
+    <updated>2020-12-19T07:04:12.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;相信很多小伙伴搭建了个人的网站，是不是发现使用百度和谷无论如何也搜索不到自己的网站呢？那是因为你的网站还没有没搜索引擎收录导致的，本篇就来介绍怎么使百度和谷歌的搜索引擎收录你的网站。话不多说，让我开始吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="baidu" scheme="https://xurongchang.github.io/tags/baidu/"/>
+    
+    <category term="google" scheme="https://xurongchang.github.io/tags/google/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何正确的使用搜索引擎</title>
     <link href="https://xurongchang.github.io/posts/a78e1131/"/>
     <id>https://xurongchang.github.io/posts/a78e1131/</id>
     <published>2020-12-18T17:03:30.000Z</published>
-    <updated>2020-12-18T17:59:13.243Z</updated>
+    <updated>2020-12-19T06:49:23.751Z</updated>
     
     
       
@@ -74,7 +104,7 @@
     <link href="https://xurongchang.github.io/posts/e56aaba5/"/>
     <id>https://xurongchang.github.io/posts/e56aaba5/</id>
     <published>2020-12-18T16:17:59.000Z</published>
-    <updated>2020-12-18T16:52:10.598Z</updated>
+    <updated>2020-12-19T06:57:19.498Z</updated>
     
     
       
@@ -544,30 +574,6 @@
     <category term="PicGo" scheme="https://xurongchang.github.io/tags/PicGo/"/>
     
     <category term="图床" scheme="https://xurongchang.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lombok使用</title>
-    <link href="https://xurongchang.github.io/posts/1a78bb16/"/>
-    <id>https://xurongchang.github.io/posts/1a78bb16/</id>
-    <published>2020-11-28T16:07:44.000Z</published>
-    <updated>2020-12-11T03:43:32.323Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Lombok是一个java库，它可以自动插入编辑器并构建工具，为java增色。&lt;/p&gt;
-&lt;p&gt;永远不要再编写另一个getter或equals方法，使用一个注释，您的类就有了一个功能齐全的构建器，自动化您的日志变量，等等。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="插件" scheme="https://xurongchang.github.io/categories/%E6%8F%92%E4%BB%B6/"/>
-    
-    
-    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
-    
-    <category term="Lombok" scheme="https://xurongchang.github.io/tags/Lombok/"/>
-    
-    <category term="Idea" scheme="https://xurongchang.github.io/tags/Idea/"/>
     
   </entry>
   
