@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2020-12-19T07:04:12.475Z</updated>
+  <updated>2020-12-21T14:14:18.448Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为windows terminal加上右键菜单</title>
+    <link href="https://xurongchang.github.io/posts/d9ecfaf6/"/>
+    <id>https://xurongchang.github.io/posts/d9ecfaf6/</id>
+    <published>2020-12-21T13:12:33.000Z</published>
+    <updated>2020-12-21T14:14:18.448Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言&lt;/p&gt;
+&lt;p&gt;很早就听说了Windows</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Teminal" scheme="https://xurongchang.github.io/tags/Teminal/"/>
+    
+  </entry>
   
   <entry>
     <title>如何使百度和谷歌的搜索引擎收录你的网站</title>
@@ -104,7 +131,7 @@
     <link href="https://xurongchang.github.io/posts/e56aaba5/"/>
     <id>https://xurongchang.github.io/posts/e56aaba5/</id>
     <published>2020-12-18T16:17:59.000Z</published>
-    <updated>2020-12-19T06:57:19.498Z</updated>
+    <updated>2020-12-21T13:16:10.184Z</updated>
     
     
       
@@ -550,30 +577,6 @@
     
     
     <category term="Wallpaper Engine" scheme="https://xurongchang.github.io/tags/Wallpaper-Engine/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Typora + PicGo + Gitee 实现免费的图床</title>
-    <link href="https://xurongchang.github.io/posts/ae713651/"/>
-    <id>https://xurongchang.github.io/posts/ae713651/</id>
-    <published>2020-11-30T08:32:20.000Z</published>
-    <updated>2020-12-11T08:23:14.662Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Typora + PicGo + Gitee 实现免费的图床，让typora更加的顺滑！&lt;/p&gt;
-&lt;p&gt;在最开始使用Typora写博客的时候，是知道有这个功能的。网上看了一圈之后感觉有点麻烦就放弃了，直到前几天写了一篇包含大量的图文的博文时。在本地看还好，上传到网上就杯具了。于是又想起了之前的事，琢磨下感觉异常的简单…..&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Typora" scheme="https://xurongchang.github.io/tags/Typora/"/>
-    
-    <category term="PicGo" scheme="https://xurongchang.github.io/tags/PicGo/"/>
-    
-    <category term="图床" scheme="https://xurongchang.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
     
   </entry>
   
