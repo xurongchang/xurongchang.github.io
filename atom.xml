@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>邶风</title>
+  <title>邶风の博客 | BEIFENG</title>
   <icon>https://xurongchang.github.io/icon.png</icon>
   
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2021-03-25T13:33:07.806Z</updated>
+  <updated>2021-03-29T08:07:25.553Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Nginx笔记</title>
+    <link href="https://xurongchang.github.io/posts/e6040b9b/"/>
+    <id>https://xurongchang.github.io/posts/e6040b9b/</id>
+    <published>2021-03-29T07:17:17.000Z</published>
+    <updated>2021-03-29T08:07:25.553Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Nginx的简介&quot;&gt;&lt;a href=&quot;#Nginx的简介&quot; class=&quot;headerlink&quot; title=&quot;Nginx的简介&quot;&gt;&lt;/a&gt;Nginx的简介&lt;/h1&gt;&lt;h2 id=&quot;Nginx是什么&quot;&gt;&lt;a href=&quot;#Nginx是什么&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="中间件" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="Nginx" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/"/>
+    
+    
+    <category term="Nginx" scheme="https://xurongchang.github.io/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MySQL数据库总结</title>
     <link href="https://xurongchang.github.io/posts/c46f82e8/"/>
     <id>https://xurongchang.github.io/posts/c46f82e8/</id>
     <published>2021-03-25T13:25:40.000Z</published>
-    <updated>2021-03-25T13:33:07.806Z</updated>
+    <updated>2021-03-26T09:30:35.067Z</updated>
     
     
       
@@ -34,7 +61,9 @@
     
     
     
-    <category term="mysql" scheme="https://xurongchang.github.io/categories/mysql/"/>
+    <category term="中间件" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="MySQL" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/MySQL/"/>
     
     
     <category term="mysql" scheme="https://xurongchang.github.io/tags/mysql/"/>
@@ -186,7 +215,7 @@
     <link href="https://xurongchang.github.io/posts/bbf13a25/"/>
     <id>https://xurongchang.github.io/posts/bbf13a25/</id>
     <published>2020-12-18T16:55:30.000Z</published>
-    <updated>2020-12-18T16:59:00.000Z</updated>
+    <updated>2021-03-26T09:26:56.363Z</updated>
     
     
       
@@ -200,8 +229,6 @@
     
     
     <category term="前端" scheme="https://xurongchang.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="JavaScript" scheme="https://xurongchang.github.io/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
     
     
     <category term="JavaScript" scheme="https://xurongchang.github.io/tags/JavaScript/"/>
@@ -240,7 +267,7 @@
     <link href="https://xurongchang.github.io/posts/8be34fcd/"/>
     <id>https://xurongchang.github.io/posts/8be34fcd/</id>
     <published>2020-12-16T06:37:07.000Z</published>
-    <updated>2021-03-14T13:22:39.916Z</updated>
+    <updated>2021-03-26T09:36:47.515Z</updated>
     
     
       
@@ -255,8 +282,6 @@
     
     
     <category term="问题" scheme="https://xurongchang.github.io/categories/%E9%97%AE%E9%A2%98/"/>
-    
-    <category term="框架" scheme="https://xurongchang.github.io/categories/%E9%97%AE%E9%A2%98/%E6%A1%86%E6%9E%B6/"/>
     
     
     <category term="发现解决问题" scheme="https://xurongchang.github.io/tags/%E5%8F%91%E7%8E%B0%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
@@ -553,33 +578,6 @@
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
     
     <category term="注解" scheme="https://xurongchang.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CSS笔记</title>
-    <link href="https://xurongchang.github.io/posts/1822a0ce/"/>
-    <id>https://xurongchang.github.io/posts/1822a0ce/</id>
-    <published>2020-12-11T11:11:56.000Z</published>
-    <updated>2020-12-11T11:17:28.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;1、CSS的相关知识点：&quot;&gt;&lt;a href=&quot;#1、CSS的相关知识点：&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="前端" scheme="https://xurongchang.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="Css" scheme="https://xurongchang.github.io/categories/%E5%89%8D%E7%AB%AF/Css/"/>
-    
-    
-    <category term="CSS" scheme="https://xurongchang.github.io/tags/CSS/"/>
     
   </entry>
   
