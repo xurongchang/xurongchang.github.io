@@ -257,33 +257,6 @@
   </entry>
   
   <entry>
-    <title>随机图片API</title>
-    <link href="https://xurongchang.github.io/posts/e56aaba5/"/>
-    <id>https://xurongchang.github.io/posts/e56aaba5/</id>
-    <published>2020-12-18T16:17:59.000Z</published>
-    <updated>2021-03-12T05:54:43.289Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;前言&lt;/p&gt;
-&lt;p&gt;博客从halo转到hexo有一段时间了，开启了文章封面的图片后。每次写博客的时候总是找个封面图花少老半天的时间😒😒😒，因为我比较在意这个事情🤣🤣🤣。想了以下可以用JS实现，但是我比较懒。所以想到了随机图片的api，有</summary>
-        
-      
-    
-    
-    
-    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="随机图片" scheme="https://xurongchang.github.io/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
     <title> Spring整合Mybatis出现Access denied for user &#39;Think&#39;@&#39;localhost&#39; (using password: YES)</title>
     <link href="https://xurongchang.github.io/posts/8be34fcd/"/>
     <id>https://xurongchang.github.io/posts/8be34fcd/</id>
@@ -572,6 +545,33 @@
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
     
     <category term="反射机制" scheme="https://xurongchang.github.io/tags/%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java自定义注解</title>
+    <link href="https://xurongchang.github.io/posts/ba74bcdf/"/>
+    <id>https://xurongchang.github.io/posts/ba74bcdf/</id>
+    <published>2020-12-12T08:21:28.000Z</published>
+    <updated>2021-03-14T13:05:21.576Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;注解&quot;&gt;&lt;a href=&quot;#注解&quot; class=&quot;headerlink&quot; title=&quot;注解&quot;&gt;&lt;/a&gt;注解&lt;/h1&gt;&lt;h2 id=&quot;Java常用的三个内置注解：&quot;&gt;&lt;a href=&quot;#Java常用的三个内置注解：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="注解" scheme="https://xurongchang.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
     
   </entry>
   
