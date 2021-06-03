@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xurongchang.github.io/posts/1a78bb16/</loc>
+    <loc>https://xurongchang.github.io/posts/bbcf5ff7/</loc>
+    <lastmod>2021-06-03</lastmod>
+  </url>
+  <url>
+    <loc>https://xurongchang.github.io/posts/767a5efb/</loc>
     <lastmod>2021-05-29</lastmod>
   </url>
   <url>
     <loc>https://xurongchang.github.io/posts/ae713651/</loc>
+    <lastmod>2021-05-29</lastmod>
+  </url>
+  <url>
+    <loc>https://xurongchang.github.io/posts/1a78bb16/</loc>
     <lastmod>2021-05-29</lastmod>
   </url>
   <url>
@@ -95,13 +103,5 @@
   <url>
     <loc>https://xurongchang.github.io/posts/7910050e/</loc>
     <lastmod>2021-05-29</lastmod>
-  </url>
-  <url>
-    <loc>https://xurongchang.github.io/posts/276e22e/</loc>
-    <lastmod>2021-05-29</lastmod>
-  </url>
-  <url>
-    <loc>https://xurongchang.github.io/posts/767a5efb/</loc>
-    <lastmod>2021-03-14</lastmod>
   </url>
 </urlset> 

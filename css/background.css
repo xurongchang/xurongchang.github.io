@@ -39,3 +39,23 @@
 }
 
 
+
+/* 生活子菜单-文件   背景颜色*/
+.layout > div:first-child:not(.recent-posts){
+	background: transparent;
+}
+
+
+/*生活子菜单-音乐   背景颜色*/
+.layout > div:first-child:not(.recent-posts){
+	background: transparent;
+}
+
+.aplayer{
+	background: var(--light_bg_color);
+}
+
+.aplayer.aplayer-withlrc.aplayer-withlist {
+    background: transparent;
+}
+

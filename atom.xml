@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2021-05-29T00:11:25.815Z</updated>
+  <updated>2021-06-03T15:33:47.262Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Lambda表达式</title>
+    <link href="https://xurongchang.github.io/posts/bbcf5ff7/"/>
+    <id>https://xurongchang.github.io/posts/bbcf5ff7/</id>
+    <published>2021-06-03T15:10:48.000Z</published>
+    <updated>2021-06-03T15:33:47.262Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1、Lamdba表达式&quot;&gt;&lt;a href=&quot;#1、Lamdba表达式&quot; class=&quot;headerlink&quot; title=&quot;1、Lamdba表达式&quot;&gt;&lt;/a&gt;1、Lamdba表达式&lt;/h1&gt;&lt;h2 id=&quot;1-1、Lambda表达式的概念&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="Lambda表达式" scheme="https://xurongchang.github.io/tags/Lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>windows10解决端口占用问题</title>
@@ -113,38 +140,6 @@
     
     
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年度总结</title>
-    <link href="https://xurongchang.github.io/posts/276e22e/"/>
-    <id>https://xurongchang.github.io/posts/276e22e/</id>
-    <published>2020-12-31T12:23:31.000Z</published>
-    <updated>2021-05-29T00:11:10.202Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;center&gt;&lt;font face=&quot;微软雅黑&quot;  size=5&gt;2020年度报告&lt;/font&gt;&lt;/center&gt;
-
-&lt;hr&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="随笔" scheme="https://xurongchang.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    <category term="年度总结" scheme="https://xurongchang.github.io/categories/%E9%9A%8F%E7%AC%94/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
-    
-    
-    <category term="年度总结" scheme="https://xurongchang.github.io/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -319,7 +314,7 @@
     <link href="https://xurongchang.github.io/posts/767a5efb/"/>
     <id>https://xurongchang.github.io/posts/767a5efb/</id>
     <published>2020-12-16T03:42:57.000Z</published>
-    <updated>2021-03-14T13:12:17.469Z</updated>
+    <updated>2021-05-29T05:49:31.432Z</updated>
     
     
       
