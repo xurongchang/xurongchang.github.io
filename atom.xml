@@ -6,7 +6,7 @@
   <link href="https://xurongchang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongchang.github.io/"/>
-  <updated>2021-06-03T15:33:47.262Z</updated>
+  <updated>2021-06-09T09:03:34.586Z</updated>
   <id>https://xurongchang.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Optional类</title>
+    <link href="https://xurongchang.github.io/posts/2df787ac/"/>
+    <id>https://xurongchang.github.io/posts/2df787ac/</id>
+    <published>2021-06-09T08:48:03.000Z</published>
+    <updated>2021-06-09T09:03:34.586Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
+    
+    <category term="Optional类" scheme="https://xurongchang.github.io/tags/Optional%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Lambda表达式</title>
     <link href="https://xurongchang.github.io/posts/bbcf5ff7/"/>
     <id>https://xurongchang.github.io/posts/bbcf5ff7/</id>
     <published>2021-06-03T15:10:48.000Z</published>
-    <updated>2021-06-03T15:33:47.262Z</updated>
+    <updated>2021-06-04T05:49:59.099Z</updated>
     
     
       
@@ -48,7 +75,7 @@
     <link href="https://xurongchang.github.io/posts/7910050e/"/>
     <id>https://xurongchang.github.io/posts/7910050e/</id>
     <published>2021-04-11T08:46:18.000Z</published>
-    <updated>2021-05-29T00:11:25.815Z</updated>
+    <updated>2021-06-04T05:27:30.262Z</updated>
     
     
       
@@ -69,7 +96,7 @@
     <link href="https://xurongchang.github.io/posts/e6040b9b/"/>
     <id>https://xurongchang.github.io/posts/e6040b9b/</id>
     <published>2021-03-29T07:17:17.000Z</published>
-    <updated>2021-05-29T00:18:40.370Z</updated>
+    <updated>2021-06-04T03:17:46.989Z</updated>
     
     
       
@@ -84,8 +111,6 @@
     
     <category term="中间件" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
     
-    <category term="Nginx" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/Nginx/"/>
-    
     
     <category term="Nginx" scheme="https://xurongchang.github.io/tags/Nginx/"/>
     
@@ -96,7 +121,7 @@
     <link href="https://xurongchang.github.io/posts/c46f82e8/"/>
     <id>https://xurongchang.github.io/posts/c46f82e8/</id>
     <published>2021-03-25T13:25:40.000Z</published>
-    <updated>2021-05-29T00:19:49.022Z</updated>
+    <updated>2021-06-04T03:46:36.127Z</updated>
     
     
       
@@ -111,8 +136,6 @@
     
     <category term="中间件" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
     
-    <category term="MySQL" scheme="https://xurongchang.github.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/MySQL/"/>
-    
     
     <category term="mysql" scheme="https://xurongchang.github.io/tags/mysql/"/>
     
@@ -125,7 +148,7 @@
     <link href="https://xurongchang.github.io/posts/ffaa379d/"/>
     <id>https://xurongchang.github.io/posts/ffaa379d/</id>
     <published>2021-03-12T06:34:02.000Z</published>
-    <updated>2021-05-29T00:20:52.603Z</updated>
+    <updated>2021-06-04T05:48:19.503Z</updated>
     
     
       
@@ -148,7 +171,7 @@
     <link href="https://xurongchang.github.io/posts/d9ecfaf6/"/>
     <id>https://xurongchang.github.io/posts/d9ecfaf6/</id>
     <published>2020-12-21T13:12:33.000Z</published>
-    <updated>2021-05-29T00:21:15.051Z</updated>
+    <updated>2021-06-04T03:41:03.097Z</updated>
     
     
       
@@ -175,7 +198,7 @@
     <link href="https://xurongchang.github.io/posts/cbff76b9/"/>
     <id>https://xurongchang.github.io/posts/cbff76b9/</id>
     <published>2020-12-19T05:43:10.000Z</published>
-    <updated>2021-05-29T00:21:40.342Z</updated>
+    <updated>2021-06-04T03:25:24.630Z</updated>
     
     
       
@@ -205,7 +228,7 @@
     <link href="https://xurongchang.github.io/posts/a78e1131/"/>
     <id>https://xurongchang.github.io/posts/a78e1131/</id>
     <published>2020-12-18T17:03:30.000Z</published>
-    <updated>2021-05-29T00:22:00.236Z</updated>
+    <updated>2021-06-04T05:29:35.704Z</updated>
     
     
       
@@ -231,7 +254,7 @@
     <link href="https://xurongchang.github.io/posts/bbf13a25/"/>
     <id>https://xurongchang.github.io/posts/bbf13a25/</id>
     <published>2020-12-18T16:55:30.000Z</published>
-    <updated>2021-05-29T00:22:35.668Z</updated>
+    <updated>2021-06-04T03:38:14.135Z</updated>
     
     
       
@@ -256,7 +279,7 @@
     <link href="https://xurongchang.github.io/posts/8be34fcd/"/>
     <id>https://xurongchang.github.io/posts/8be34fcd/</id>
     <published>2020-12-16T06:37:07.000Z</published>
-    <updated>2021-05-29T00:24:21.490Z</updated>
+    <updated>2021-06-04T05:41:00.811Z</updated>
     
     
       
@@ -282,7 +305,7 @@
     <link href="https://xurongchang.github.io/posts/e147a258/"/>
     <id>https://xurongchang.github.io/posts/e147a258/</id>
     <published>2020-12-16T06:26:21.000Z</published>
-    <updated>2021-05-29T00:25:20.553Z</updated>
+    <updated>2021-06-04T05:22:02.088Z</updated>
     
     
       
@@ -296,9 +319,7 @@
     
     
     
-    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
-    
-    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    <category term="spring框架" scheme="https://xurongchang.github.io/categories/spring%E6%A1%86%E6%9E%B6/"/>
     
     
     <category term="spring" scheme="https://xurongchang.github.io/tags/spring/"/>
@@ -314,7 +335,7 @@
     <link href="https://xurongchang.github.io/posts/767a5efb/"/>
     <id>https://xurongchang.github.io/posts/767a5efb/</id>
     <published>2020-12-16T03:42:57.000Z</published>
-    <updated>2021-05-29T05:49:31.432Z</updated>
+    <updated>2021-06-04T04:26:27.172Z</updated>
     
     
       
@@ -339,11 +360,39 @@
   </entry>
   
   <entry>
-    <title>JDK环境变量配置</title>
+    <title>JDK环境配置</title>
     <link href="https://xurongchang.github.io/posts/3f60947a/"/>
     <id>https://xurongchang.github.io/posts/3f60947a/</id>
     <published>2020-12-15T23:58:12.000Z</published>
-    <updated>2021-05-29T00:26:05.615Z</updated>
+    <updated>2021-06-04T05:58:54.018Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言&lt;/p&gt;
+&lt;p&gt;由于系统重装了，一切都要开头再来！虽然繁琐，但那种清理干净的感觉真的很舒服。到装JDK的时候，忘记环境变量怎么配了(🤣🤣🤣)。闲着也是没事记录一下吧，说不定以后有机会用到呢，也可以帮助到需要的人&lt;/p&gt;
+&lt;/blockqu</summary>
+        
+      
+    
+    
+    
+    <category term="分享" scheme="https://xurongchang.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="环境变量" scheme="https://xurongchang.github.io/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDK环境配置</title>
+    <link href="https://xurongchang.github.io/posts/3f60947a/"/>
+    <id>https://xurongchang.github.io/posts/3f60947a/</id>
+    <published>2020-12-15T23:58:12.000Z</published>
+    <updated>2021-06-04T04:24:45.268Z</updated>
     
     
       
@@ -371,7 +420,7 @@
     <link href="https://xurongchang.github.io/posts/4f78041f/"/>
     <id>https://xurongchang.github.io/posts/4f78041f/</id>
     <published>2020-12-14T07:11:08.000Z</published>
-    <updated>2021-05-29T00:26:24.971Z</updated>
+    <updated>2021-06-04T04:20:45.383Z</updated>
     
     
       
@@ -384,9 +433,7 @@
     
     
     
-    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
-    
-    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    <category term="spring框架" scheme="https://xurongchang.github.io/categories/spring%E6%A1%86%E6%9E%B6/"/>
     
     
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
@@ -402,7 +449,7 @@
     <link href="https://xurongchang.github.io/posts/b3a30946/"/>
     <id>https://xurongchang.github.io/posts/b3a30946/</id>
     <published>2020-12-14T05:25:18.000Z</published>
-    <updated>2021-05-29T00:26:39.966Z</updated>
+    <updated>2021-06-04T04:16:01.974Z</updated>
     
     
       
@@ -415,9 +462,7 @@
     
     
     
-    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
-    
-    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    <category term="spring框架" scheme="https://xurongchang.github.io/categories/spring%E6%A1%86%E6%9E%B6/"/>
     
     
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
@@ -433,7 +478,7 @@
     <link href="https://xurongchang.github.io/posts/5e4d2d0d/"/>
     <id>https://xurongchang.github.io/posts/5e4d2d0d/</id>
     <published>2020-12-13T16:11:05.000Z</published>
-    <updated>2021-05-29T00:26:51.692Z</updated>
+    <updated>2021-06-04T04:15:51.465Z</updated>
     
     
       
@@ -446,9 +491,7 @@
     
     
     
-    <category term="框架" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
-    
-    <category term="spring" scheme="https://xurongchang.github.io/categories/%E6%A1%86%E6%9E%B6/spring/"/>
+    <category term="spring框架" scheme="https://xurongchang.github.io/categories/spring%E6%A1%86%E6%9E%B6/"/>
     
     
     <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
@@ -464,7 +507,7 @@
     <link href="https://xurongchang.github.io/posts/fe8751f5/"/>
     <id>https://xurongchang.github.io/posts/fe8751f5/</id>
     <published>2020-12-13T06:55:35.000Z</published>
-    <updated>2021-05-29T00:15:50.299Z</updated>
+    <updated>2021-06-04T05:07:42.345Z</updated>
     
     
       
@@ -491,7 +534,7 @@
     <link href="https://xurongchang.github.io/posts/90d1f040/"/>
     <id>https://xurongchang.github.io/posts/90d1f040/</id>
     <published>2020-12-13T03:00:39.000Z</published>
-    <updated>2021-05-29T00:25:46.420Z</updated>
+    <updated>2021-06-04T05:15:46.951Z</updated>
     
     
       
@@ -512,61 +555,6 @@
     <category term="hexo" scheme="https://xurongchang.github.io/tags/hexo/"/>
     
     <category term="个人博客" scheme="https://xurongchang.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java反射机制笔记</title>
-    <link href="https://xurongchang.github.io/posts/83a8cfac/"/>
-    <id>https://xurongchang.github.io/posts/83a8cfac/</id>
-    <published>2020-12-12T08:41:58.000Z</published>
-    <updated>2021-05-29T00:28:36.018Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;font color=blue&gt;这篇笔记是根据秦疆老师的视频整理而成，记录一下&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font color=blue&gt;大佬的地址：&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="https://xurongchang.github.io/categories/Java/"/>
-    
-    
-    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
-    
-    <category term="反射机制" scheme="https://xurongchang.github.io/tags/%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java自定义注解</title>
-    <link href="https://xurongchang.github.io/posts/ba74bcdf/"/>
-    <id>https://xurongchang.github.io/posts/ba74bcdf/</id>
-    <published>2020-12-12T08:21:28.000Z</published>
-    <updated>2021-05-29T00:29:28.683Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;注解&quot;&gt;&lt;a href=&quot;#注解&quot; class=&quot;headerlink&quot; title=&quot;注解&quot;&gt;&lt;/a&gt;注解&lt;/h1&gt;&lt;h2 id=&quot;Java常用的三个内置注解：&quot;&gt;&lt;a href=&quot;#Java常用的三个内置注解：&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="https://xurongchang.github.io/categories/Java/"/>
-    
-    
-    <category term="Java" scheme="https://xurongchang.github.io/tags/Java/"/>
-    
-    <category term="注解" scheme="https://xurongchang.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
     
   </entry>
   
